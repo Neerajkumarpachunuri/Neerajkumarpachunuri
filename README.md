@@ -27,7 +27,7 @@ A motivated student passionate about cybersecurity, eager to expand my knowledge
 - Cybersecurity
 - Cryptography 
 - Cloud Data Security
-- Technical Support Engineering
+- Network Security Engineering
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
