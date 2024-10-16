@@ -34,4 +34,4 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ## Projects
 
-- *[ECC CLI for Hybrid Cloud Security](your-project-link):* Developed a Python-based CLI tool for encrypting Electronic Health Care (EHC) data using Elliptic Curve Cryptography (ECC), ensuring secure data storage and compliance with regulatory standards in hybrid cloud environments.
+- *[ECC CLI for Hybrid Cloud Security](https://github.com/Neerajkumarpachunuri/Building-a-Trust-Model-for-EHC-Data-using-ECC-/tree/main):* Developed a Python-based CLI tool for encrypting Electronic Health Care (EHC) data using Elliptic Curve Cryptography (ECC), ensuring secure data storage and compliance with regulatory standards in hybrid cloud environments.
